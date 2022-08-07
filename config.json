@@ -1,0 +1,13 @@
+
+{
+    "token": "MTAwNTYxNTAyOTYyMzcxODA1OQ.G31YP-.opTYk3KVDcvwF7eDvuR7sxv7bADov3GD5ttaHA",
+    "clientId": "1005615029623718059",
+    "guildId":"1005618520916246538",
+    "defaultSuccessColor": "WHITE",
+    "defaultErrorColor": "RED",
+    "mongoURL":"mongodb+srv://amistades:1234@cluster0.w30ui4i.mongodb.net/BotHack"
+
+}
+
+
+
